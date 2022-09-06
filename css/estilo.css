@@ -90,6 +90,7 @@ p{
 .vidContainer {
     width: 100%;
     height: auto;
+    padding: 3%;
 }
 
 .vidContainer iframe {
